@@ -17,7 +17,7 @@ public class Main{
         switch (choise){
             case (1):
             System.out.println("The following operations are available:");
-            System.out.println("3) SQRT (square root)");
+            System.out.println("1) SQRT (square root)");
             calc = new Calculator(scan, true);
             return calc;
 
